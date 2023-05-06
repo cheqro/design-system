@@ -6,6 +6,6 @@ import {Component, Input} from '@angular/core';
   styleUrls: ['./jbutton.component.css']
 })
 export class JButtonComponent {
-  @Input() name: string = 'unnamed!';
+  @Input() name: string = 'Unnamed';
 
 }

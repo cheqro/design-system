@@ -1,5 +1,5 @@
 button {
-  padding: 10px;
+  padding: 10px 20px;
   color: #000;
   border: 1px solid gray;
   border-radius: 5px;
@@ -12,4 +12,6 @@ button:hover {
   cursor: pointer;
   background-color: black;
   color: white;
+  letter-spacing: 1px;
+  font-weight: 700;
 }

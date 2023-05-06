@@ -1,0 +1,21 @@
+input{
+  padding: 4px;
+  outline: none;
+border: none;
+
+}
+#input-wrapper{
+  display: inline-flex;
+  column-gap: 10px;
+  border: solid 2px gray;
+  border-radius: 3px;
+}
+
+#input-label{
+  padding-left: 3px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  text-transform: capitalize;
+}
